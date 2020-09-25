@@ -10,4 +10,4 @@ Graduated from Dalian University of Technology of China with double bachelor deg
 + This my Blog [laurenfrost.github.io](https://laurenfrost.github.io/)  
 + And my Gmail [bellfahle@gmail.com](bellfahle@gmail.com)  
 
-[![Laurenfrost's github stats](https://github-readme-stats.vercel.app/api?username=laurenfrost&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Laurenfrost's github stats](https://github-readme-stats.vercel.app/api?username=laurenfrost&show_icons=true)](https://github.com/Laurenfrost/)
