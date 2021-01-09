@@ -7,7 +7,11 @@ Graduated from Dalian University of Technology of China with double bachelor deg
 - I’m currently learning data science.  
 - Ask me about Japanese - Chiness translation.  
 
-+ This my Blog [laurenfrost.github.io](https://laurenfrost.github.io/)  
-+ And my Gmail [bellfahle@gmail.com](bellfahle@gmail.com)  
+[![Laurenfrost's github stats](https://github-readme-stats.vercel.app/api?username=laurenfrost&count_private=true&show_icons=true&theme=slateorange)](https://github.com/Laurenfrost/)
 
-[![Laurenfrost's github stats](https://github-readme-stats.vercel.app/api?username=laurenfrost&show_icons=true)](https://github.com/Laurenfrost/)
++ This is my Blog [laurenfrost.github.io](https://laurenfrost.github.io/)  
++ And this is a GitHub Actions tool which can report your repo's activities to a slack channel or specific person through a slack webhook.
+
+[![mention-to-slack](https://github-readme-stats.vercel.app/api/pin/?username=laurenfrost&repo=mention-to-slack&theme=slateorange)](https://github.com/Laurenfrost/mention-to-slack)
+
+My Gmail is [bellfahle@gmail.com](bellfahle@gmail.com)  
