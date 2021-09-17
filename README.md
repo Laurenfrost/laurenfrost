@@ -14,6 +14,6 @@ Graduated from Dalian University of Technology of China with double bachelor deg
 
 [![mention-to-slack](https://github-readme-stats.vercel.app/api/pin/?username=laurenfrost&repo=mention-to-slack&theme=slateorange)](https://github.com/Laurenfrost/mention-to-slack)
 
-[![bangumi-status-on-github-profile](https://github-readme-stats.vercel.app/api/pin/?username=laurenfrost&repo=bangumi-status-on-github-profile&theme=slateorange)](https://github.com/Laurenfrost/bangumi-status-on-github-profile)
+[![bangumi-status-card](https://github-readme-stats.vercel.app/api/pin/?username=laurenfrost&repo=bangumi-status-card&theme=slateorange)](https://github.com/Laurenfrost/bangumi-status-card)
 
 My Gmail is [bellfahle@gmail.com](bellfahle@gmail.com)  
