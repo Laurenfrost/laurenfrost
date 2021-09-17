@@ -9,6 +9,8 @@ Graduated from Dalian University of Technology of China with double bachelor deg
 
 [![Laurenfrost's github stats](https://github-readme-stats.vercel.app/api?username=laurenfrost&count_private=true&show_icons=true&theme=slateorange)](https://github.com/Laurenfrost/)
 
+[![Bangumi status](https://1496287473400639.cn-beijing.fc.aliyuncs.com/2016-08-15/proxy/status-cards.LATEST/bangumi-status-card/?User=laurenfrost)](https://bgm.tv/user/laurenfrost)
+
 + This is my Blog [laurenfrost.github.io](https://laurenfrost.github.io/)  
 + And this is a GitHub Actions tool which can report your repo's activities to a slack channel or @specific_person through a slack webhook.
 
