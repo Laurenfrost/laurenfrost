@@ -1,11 +1,18 @@
 ### Hi there 👋
 
 This is Linwei Ye, a Japanese Anime fan.  
-Graduated from Dalian University of Technology of China with double bachelor degrees, CS and Japanese.  
+Graduated from Dalian University of Technology of China with double bachelor degrees, **Computer Science** and **Japanese Language**.  
 
-- I’m interested in high performance computing.  
-- I’m currently learning data science.  
-- Ask me about Japanese - Chiness translation.  
++ My Job & Main Focus
+  - I consider myself more like a **DevOps Engineer** instead of a Data Engineer or a BackEnd Dev.
+  - I’m currently preparing for the AWS Certification -- Associate level of Solutions Architect.  
+
++ Also focus on
+  - Recently, I’m VERY interested in **Spike Neural Network** & something Neuromorphic.  
+  - I’m interested in **High Performance Computing**.  
+
++ My Hobbies
+  - Ask me about Japanese - Chiness translation.  
 
 [![Laurenfrost's github stats](https://github-readme-stats.vercel.app/api?username=laurenfrost&count_private=true&show_icons=true&theme=slateorange)](https://github.com/Laurenfrost/)
 
