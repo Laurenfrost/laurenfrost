@@ -16,7 +16,9 @@ Graduated from Dalian University of Technology of China with double bachelor deg
 
 + This is my Blog [laurenfrost.github.io](https://laurenfrost.github.io/)  
 
-
-<img width="200" height="200" alt="https://www.credly.com/badges/60615e70-6409-4752-9d77-3553a43d13d2/embedded" src="https://images.credly.com/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png">
-
+<p float="left">
+  <img width="200" height="200" alt="https://www.credly.com/badges/60615e70-6409-4752-9d77-3553a43d13d2/embedded" src="https://images.credly.com/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png">
+  <img width="200" height="200" alt="https://www.credly.com/badges/2d84e428-9078-49b6-a804-13c15383d0de/embedded" src="https://images.credly.com/size/680x680/images/2d84e428-9078-49b6-a804-13c15383d0de/image.png">
+</p>
+  
 [![Laurenfrost's github stats](https://github-readme-stats.vercel.app/api?username=laurenfrost&count_private=true&show_icons=true&theme=slateorange)](https://github.com/Laurenfrost/)
