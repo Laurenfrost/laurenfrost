@@ -5,7 +5,7 @@ Graduated from Dalian University of Technology of China with double bachelor deg
 
 + My Job & Main Focus
   - I consider myself more like a **DevOps Engineer** instead of a Data Engineer or a BackEnd Dev.
-  - I’m currently preparing for the AWS Certification -- Professional level of Solutions Architect.  
+  - I’m currently preparing for the AWS Certification .  
 
 + Also focus on
   - Recently, I’m VERY interested in **Spike Neural Network** & something Neuromorphic.  
