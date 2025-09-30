@@ -4,8 +4,7 @@ This is Linwei Ye, a Japanese Anime fan.
 Graduated from Dalian University of Technology of China with double bachelor degrees, **Computer Science** and **Japanese Language**.  
 
 + My Job & Main Focus
-  - I consider myself more like a **DevOps Engineer** instead of a Data Engineer or a BackEnd Dev.
-  - <s>I’m currently preparing for the AWS Certified Database - Specialty exam.</s> Passed!  
+  - I consider myself more like a **DevOps Engineer** instead of a Data Engineer or a BackEnd Dev.  
 
 + Also focus on
   - Recently, I’m VERY interested in **Spike Neural Network** & something Neuromorphic.  
@@ -21,3 +20,8 @@ Graduated from Dalian University of Technology of China with double bachelor deg
   <img width="200" height="200" alt="https://www.credly.com/badges/2d84e428-9078-49b6-a804-13c15383d0de/embedded" src="https://images.credly.com/size/680x680/images/2d84e428-9078-49b6-a804-13c15383d0de/image.png">
   <img width="200" height="200" alt="https://www.credly.com/badges/885d38e4-55c0-4c35-b4ed-694e2b26be6c/embedded" src="https://images.credly.com/size/680x680/images/885d38e4-55c0-4c35-b4ed-694e2b26be6c/image.png">
 </p>
+
+<p float="left">
+  <img width="200" height="200" alt="https://www.credly.com/badges/71c579e0-51fd-4247-b493-d2fa8167157a/embedded" src="https://images.credly.com/size/680x680/images/71c579e0-51fd-4247-b493-d2fa8167157a/image.png">
+</p>
+
